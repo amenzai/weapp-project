@@ -1,0 +1,27 @@
+/* components/navi/navi.wxss */
+.container {
+  width: 600rpx;
+  height: 80rpx;
+  background-color: #f7f7f7;
+  border-radius: 4rpx;
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navi-icon {
+  height: 80rpx;
+  width: 80rpx;
+}
+
+.title {
+  font-size: 28rpx;
+}
+
+/* .navi-left{
+  float:left;
+}
+
+.navi-right{
+  float:right
+}  */
